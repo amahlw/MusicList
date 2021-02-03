@@ -65,4 +65,8 @@ class Playlist:
     # 3. Song Title 3
 
     def print_songs(self):
-        pass
+        current_song = self.__first_song
+
+        while current_song != None
+        print(current_song)
+        current_song = current_song.next
